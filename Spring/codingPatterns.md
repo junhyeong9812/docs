@@ -513,7 +513,7 @@ public int maxSum(int[] arr, int k) {
 
 ---
 
-(## ✅ 유형 9: 중복 문자 제거 (Remove Duplicate Letters)
+## ✅ 유형 9: 중복 문자 제거 (Remove Duplicate Letters)
 
 ### 💡 문제 설명
 
@@ -583,7 +583,7 @@ public String removeDuplicateLettersStream(String s) {
 
 ---
 
-(## ✅ 유형 10: 주식 최대 수익 (Best Time to Buy and Sell Stock)
+## ✅ 유형 10: 주식 최대 수익 (Best Time to Buy and Sell Stock)
 
 ### 💡 문제 설명
 
@@ -643,7 +643,7 @@ public int maxProfit(int[] prices) {
 
 ---
 
-(## ✅ 유형 11: 가장 긴 증가하는 부분 수열 (LIS - Longest Increasing Subsequence)
+## ✅ 유형 11: 가장 긴 증가하는 부분 수열 (LIS - Longest Increasing Subsequence)
 
 ### 💡 문제 설명
 
@@ -707,7 +707,7 @@ public int lengthOfLIS(int[] nums) {
 
 ---
 
-(## ✅ 유형 12: 집 도둑 문제 (House Robber)
+## ✅ 유형 12: 집 도둑 문제 (House Robber)
 
 ### 💡 문제 설명
 
@@ -767,7 +767,7 @@ public int rob(int[] nums) {
 
 ---
 
-(## ✅ 유형 13: 계단 오르기 / 점프 문제 (Climbing Stairs / Jump Game)
+## ✅ 유형 13: 계단 오르기 / 점프 문제 (Climbing Stairs / Jump Game)
 
 ### 💡 문제 설명
 
@@ -822,7 +822,7 @@ public int climbStairs(int n) {
 
 ---
 
-(## ✅ 유형 14: 프린터 / 프로세스 순서 (Printer Queue / Process Scheduling)
+## ✅ 유형 14: 프린터 / 프로세스 순서 (Printer Queue / Process Scheduling)
 
 ### 💡 문제 설명
 
@@ -894,7 +894,7 @@ public int solution(int[] priorities, int location) {
 
 ---
 
-(## ✅ 유형 15: 미로 탐색 (Maze Search - BFS)
+## ✅ 유형 15: 미로 탐색 (Maze Search - BFS)
 
 ### 💡 문제 설명
 
@@ -991,7 +991,7 @@ public int bfsWithDistance(int[][] maze) {
 
 ---
 
-(## ✅ 유형 16: DFS/BFS 순회 (Graph Traversal)
+## ✅ 유형 16: DFS/BFS 순회 (Graph Traversal)
 
 ### 💡 문제 설명
 
@@ -1067,7 +1067,7 @@ public void dfsMatrix(int v, boolean[] visited, int[][] adjMatrix) {
 
 ---
 
-(## ✅ 유형 17: 네트워크 연결 수 (Connected Components)
+## ✅ 유형 17: 네트워크 연결 수 (Connected Components)
 
 ### 💡 문제 설명
 
@@ -1169,7 +1169,7 @@ private void union(int[] parent, int a, int b) {
 
 ---
 
-(## ✅ 유형 18: 전화번호 목록 / 접두어 탐색 (Prefix Search)
+## ✅ 유형 18: 전화번호 목록 / 접두어 탐색 (Prefix Search)
 
 ### 💡 문제 설명
 
@@ -1228,7 +1228,7 @@ public boolean solution(String[] phone_book) {
 
 ---
 
-(## ✅ 유형 19: 조이스틱 문제 (Greedy Joystick)
+## ✅ 유형 19: 조이스틱 문제 (Greedy Joystick)
 
 ### 💡 문제 설명
 
@@ -1286,7 +1286,7 @@ public int solution(String name) {
 
 ---
 
-(## ✅ 유형 20: 숫자 게임 (Number Game - 투 포인터 전략)
+## ✅ 유형 20: 숫자 게임 (Number Game - 투 포인터 전략)
 
 ### 💡 문제 설명
 

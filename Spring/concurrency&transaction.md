@@ -24,7 +24,7 @@
 
 ## 🔐 3. RDBMS에서의 동시성 제어
 
-### ✅ 낭그와적 런 (Optimistic Lock)
+### ✅ 낙관적 런 (Optimistic Lock)
 
 - 충분한 충분 가능성이 발생하지 않는다고 가정
 - `@Version` 필드 추가 후 버전 비교로 충분 감지
@@ -43,7 +43,7 @@ public class User {
 }
 ```
 
-### ✅ 비가정 런 (Pessimistic Lock)
+### ✅ 비관적 런 (Pessimistic Lock)
 
 - 충분 가능성이 높다고 가르고 무엇도 해지기 전에 매우
 - `SELECT ... FOR UPDATE` 또는 JPA의 `@Lock` 사용
